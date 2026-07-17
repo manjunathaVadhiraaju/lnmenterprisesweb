@@ -13,7 +13,7 @@ export const BUSINESS_INFO = {
   phone: '+91 9483725426', // Main fallback
   tailoringPhone: '+91 9483725426', // Tailoring & WhatsApp Support
   softwarePhone: '+91 9449254265',  // Software Development Support (Calls Only)
-  email: 'a99manjunatha@gmail.com',
+  email: 'info@lnmenterprises.cc',
   hours: 'Monday – Saturday: 9:00 AM – 7:00 PM (Sunday Closed)',
   whatsappNumber: '919483725426', // International format for WhatsApp API
   privacyPolicyUrl: 'https://ais-pre-r6bpid7jtorpcaeobr6goh-335822337361.asia-southeast1.run.app/#privacy-policy',
